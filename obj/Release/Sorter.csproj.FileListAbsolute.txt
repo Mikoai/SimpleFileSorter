@@ -1,0 +1,10 @@
+F:\UZ\.NET\Extra\Sorter\bin\Release\Sorter.exe.config
+F:\UZ\.NET\Extra\Sorter\bin\Release\Sorter.exe
+F:\UZ\.NET\Extra\Sorter\bin\Release\Sorter.pdb
+F:\UZ\.NET\Extra\Sorter\obj\Release\Sorter.FileSorter.resources
+F:\UZ\.NET\Extra\Sorter\obj\Release\Sorter.Properties.Resources.resources
+F:\UZ\.NET\Extra\Sorter\obj\Release\Sorter.csproj.GenerateResource.cache
+F:\UZ\.NET\Extra\Sorter\obj\Release\Sorter.csproj.CoreCompileInputs.cache
+F:\UZ\.NET\Extra\Sorter\obj\Release\Sorter.exe
+F:\UZ\.NET\Extra\Sorter\obj\Release\Sorter.pdb
+F:\UZ\.NET\Extra\Sorter\obj\Release\Sorter.csprojAssemblyReference.cache
